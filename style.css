@@ -1,0 +1,19 @@
+.btn{
+    color:white;
+    background-color:green;
+    border-radius:10px ;
+    height: 30px;
+    margin-left: 700px;
+    margin-top: 250px;
+
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+    color: hotpink ;
+}
+.btn:hover{
+    background-color: red;
+    transition: 0.4s;
+    cursor: pointer;
+}
